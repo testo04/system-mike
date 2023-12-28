@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "* This repl was made in order to help people program people's codes in an easy and simplified way * you can watch video to learn djs on HRS channel ### video Link: https://youtu.be/CTF15Yt6UM4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "ascii-table": "^0.0.9",
+    "canvafy": "^7.0.4",
+    "discord-inviter": "^0.9.3",
+    "discord.js": "^14.13.0",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6"
+  }
+}

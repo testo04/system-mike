@@ -1,0 +1,22 @@
+{
+  "token": "MTE4ODQzNjE1NTIzOTIzOTcwMQ.GliFsr.tqiNzkkdwWmFYJV_HlvcOZU1iL1627OpZ7Wl_g",
+  "prefix": "!",
+  "guild_id" : "1188063907902926888",
+  "owners" : ["1157377723359051857"],
+  "mongo" : "mongodb+srv://publicgeneral:publicgeneral@public.a85ijsx.mongodb.net/",
+  "levels_room" : "1189633655715401899",
+  "welcome_room" : "1188445927539753031",
+  "console_selection" : {
+    "ps5_role" : "1189887055623376907",
+    "ps4_role" : "1189887417159794759",
+    "ps3_role" : "1189887439884525600",
+    "ps2_role" : "1189887455718014976",
+    "psp_role" : "1189887481823383642",
+    "vita_role" : "1189887563083812934"
+  },
+  "voice_channels" : {
+    "users" : "1189895441895141557",
+    "status" : "1189912987948044298",
+    "date" : "1189903225072123965"
+  }
+}
